@@ -36,6 +36,9 @@ Including but not limited to:
 - Coordinate the radar data parsing frequency and control frequency to minimize response latency as much as possible.
 - Path planning algorithm such as dijkstra and obstacle avoidance path point generation.
 
+## Project start time
+September 2023
+
 ## To-do task
 1. The code needs to be cleaned.
 2. Provide a instruction Doc.
